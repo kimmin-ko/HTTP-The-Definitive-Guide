@@ -17,4 +17,4 @@ HTTP 완벽 가이드를 공부하면서 정리한 내용입니다.
 [14장 보안 HTTP](https://github.com/kimmin-ko/HTTP-The-Definitive-Guide/wiki/14%EC%9E%A5.-%EB%B3%B4%EC%95%88-HTTP)  
   
 [4부 엔터티, 인코딩, 국제화]  
-[15장 엔터티와 인코딩]()  
+[15장 엔터티와 인코딩](https://github.com/kimmin-ko/HTTP-The-Definitive-Guide/wiki/15%EC%9E%A5.-%EC%97%94%ED%84%B0%ED%8B%B0%EC%99%80-%EC%9D%B8%EC%BD%94%EB%94%A9)  
